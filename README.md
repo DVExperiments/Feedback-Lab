@@ -1,6 +1,6 @@
 # Feedback Lab — Classroom Website v0.4
 
-Feedback Lab is a standalone educational web application for cybernetics and adaptive intervention design. It is **not hosted within Ripple Map** and requires no connection to that repository.
+Feedback Lab is a standalone educational web application for cybernetics and adaptive intervention design. 
 
 ## Files
 - `index.html` — welcome / instructions / import guidance.
